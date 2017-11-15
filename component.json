@@ -1,7 +1,7 @@
 {
   "name": "marked",
   "version": "0.3.4",
-  "repo": "chjj/marked",
+  "repo": "sanchesking9/marked",
   "description": "A markdown parser built for speed",
   "keywords": ["markdown", "markup", "html"],
   "scripts": ["lib/marked.js"],
